@@ -10,6 +10,6 @@ Java app for email creation
 - Have set methods to change password, set the mailbox capacity, and define an alternate email address
 - Have get methods to display the name, email, and mailbox capacity
 
-##Result:
+**Result:**
 
 ![](https://user-images.githubusercontent.com/38626518/70120732-e8be6d00-1675-11ea-8537-423a177349e1.png)
